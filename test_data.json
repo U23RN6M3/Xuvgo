@@ -3,12 +3,6 @@
   "quarter":1,
   "unique":14,
   "allow_test_copies_to_access":true,
-  "reviewers":{
-    "programming":{
-      "logic_gates":true
-    },
-    "math":{
-      "factoring":true
-    }
-  },
+  "legible_copies":[
+    "Pew pew pew - Whati  hear Uwhdush",
 }
