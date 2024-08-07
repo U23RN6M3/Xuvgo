@@ -1,11 +1,7 @@
 {
   "name":"Goated Management System",
+  "version":"1.0.0",
   "accessible":"yes",
   "quarter":1,
-  "unique":12,
   "allow_test_copies_to_access":true,
-  "legible_copies":[
-    "magnus",
-    
-  ]
 }
