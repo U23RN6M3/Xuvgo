@@ -5,15 +5,28 @@
 	"quarter":1,
 	"allow_test_copies_to_access":true,
 	"header":"This is so skibidi",
+	
 	"announcements":{
-		"reminders":"",
+		
+		"reminders":{
+			
+			"TH10A":
+				"",
+			
+			"TH10B":
+				"Lmao I hope programming this wasn't all for nothing.",
+			
+		},
+		
 		"thought_bubble":"hmm",
-		"news":"[rainbow freq=1.0 sat=0.8 val=0.8][wave amp=50.0 freq=5.0 connected=1]BREAKING NEWS[/wave][/rainbow]:\nSomeone skibidied all over my [shake rate=20.0 level=10 connected=1][color=red]gyatt[/color][/shake]"
+		
+		"news":"[shake rate=20.0 level=10 connected=1][wave amp=50.0 freq=5.0 connected=1]I LOVE JSON FILES[/wave][/shake]"
 		
 	},
 	
 	"schedule":{
 		"links":{
+			
 			"TH10A":{
 				"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
 				"Values Ed":"",
