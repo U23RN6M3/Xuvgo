@@ -1,69 +1,56 @@
 {
-  "name":"Goated Management System",
-
-  "version":"1.0.0",
-
-  "accessible":true,
-
-  "quarter":1,
-
-  "allow_test_copies_to_access":true,
-
-  "header":"This is so skibidi",
-
-  "announcements":{
-
-	"reminders":"",
-
-	"thought_bubble":"hmm",
-
-    "news":"[rainbow freq=1.0 sat=0.8 val=0.8][wave amp=50.0 freq=5.0 connected=1]BREAKING NEWS[/wave][/rainbow]:\nSomeone skibidied all over my [shake rate=20.0 level=10 connected=1][color=red]gyatt[/color][/shake]"
-
-  },
-
-  "schedule":{
-
-    "links":{
-
-    	"TH10A":{
-			"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
-    		"Values Ed":"",
-    		"Mapeh":"",
-    		"Theology":"",
-    		"English":"",
-    		"Filipino":"",
-    		"Math":"",
-    		"Science":"",
-    		"AP":"",
-    		"ICT":"",
-    		"CSS":"",
-    		"HE":"",
-    		"TD":"",
-    		"AFA":"",
-    		"-":"WxmWXZlbSdlVuJlWkhkUaJVMsplUyYESSJjR0l1VGRHZtFDdk5mSyQmbK12YupUbadkWtpFSGtmWIZ0VjhlRX5kRadlTGFEMOZkQWVlRCZFUWZlVQd1a5A1VspXYXxmeQNjT6BVMr9CUxwmeXZFb6JlbOpnUrZ1RStWV6JVVVpXTq1keNp2a51kasR0TUxGRatmTEp1a01mWrNHMTBzcwwkeRBDTyUldMJjVpp1VWlGTtpUaM5WV1xkbWBDZYZFMkhlUwQ2V5EDZXlTNiJTO1w0MsVDT5hjdMlHO2wUe4YzY69mNjNjQ6N2MCBzYIJEMkhkUwQ2RoBDZHdWP"
-    		
-    	},
-    	
-    	"TH10B":{
-    		"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
-    		"Values Ed":"",
-    		"Mapeh":"",
-    		"Theology":"",
-    		"English":"",
-    		"Filipino":"",
-    		"Math":"",
-    		"Science":"",
-    		"AP":"",
-    		"ICT":"",
-    		"CSS":"",
-    		"HE":"",
-    		"TD":"",
-    		"AFA":"",
-    		"-":"ZBTOQllespWW6xmSPRFbKpVRspkWGh2aaZEaxdlRoFnVyAXcWJjVYZlMVJjWXVlMRRVWyElV5IUUWlTaYFTOpJ2VKlmYUJEdiRlQ21ERCZHUXljdQd1a5A1VspXYXxmeQNjT6BlMN9CUy4kRZJjTGJWVWZkYVZEdiVlR1FVVGV3YtVTdjxmW5NGbaNkVsp1QatmSDplaW1mWqVFMORVVwwkeRBDTyUldMJjVpp1VWlGTtpUaM5WV1xkbWBDZYZFMkhlUwQ2V5EDZXlTNiJTO1w0MsVDT5hjdMlHO2wUe4YzY69mNjNjQ6N2MCBzYIJEMkhkUwQ2RoBDZHdWP"
-    	}
-
-    }
-
-  }
-
+	"name":"Goated Management System",
+	"version":"1.0.0",
+	"accessible":true,
+	"quarter":1,
+	"allow_test_copies_to_access":true,
+	"header":"This is so skibidi",
+	"announcements":{
+		"reminders":"",
+		"thought_bubble":"hmm",
+		"news":"[rainbow freq=1.0 sat=0.8 val=0.8][wave amp=50.0 freq=5.0 connected=1]BREAKING NEWS[/wave][/rainbow]:\nSomeone skibidied all over my [shake rate=20.0 level=10 connected=1][color=red]gyatt[/color][/shake]"
+		
+	},
+	
+	"schedule":{
+		"links":{
+			"TH10A":{
+				"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
+				"Values Ed":"",
+				"Mapeh":"",
+				"Theology":"",
+				"English":"",
+				"Filipino":"",
+				"Math":"",
+				"Science":"",
+				"AP":"",
+				"ICT":"",
+				"CSS":"",
+				"HE":"",
+				"TD":"",
+				"AFA":"",
+				"-":"WxmWXZlbSdlVuJlWkhkUaJVMsplUyYESSJjR0l1VGRHZtFDdk5mSyQmbK12YupUbadkWtpFSGtmWIZ0VjhlRX5kRadlTGFEMOZkQWVlRCZFUWZlVQd1a5A1VspXYXxmeQNjT6BVMr9CUxwmeXZFb6JlbOpnUrZ1RStWV6JVVVpXTq1keNp2a51kasR0TUxGRatmTEp1a01mWrNHMTBzcwwkeRBDTyUldMJjVpp1VWlGTtpUaM5WV1xkbWBDZYZFMkhlUwQ2V5EDZXlTNiJTO1w0MsVDT5hjdMlHO2wUe4YzY69mNjNjQ6N2MCBzYIJEMkhkUwQ2RoBDZHdWP"
+				
+			},
+			
+			"TH10B":{
+				"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
+				"Values Ed":"",
+				"Mapeh":"",
+				"Theology":"",
+				"English":"",
+				"Filipino":"",
+				"Math":"",
+				"Science":"",
+				"AP":"",
+				"ICT":"",
+				"CSS":"",
+				"HE":"",
+				"TD":"",
+				"AFA":"",
+				"-":"ZBTOQllespWW6xmSPRFbKpVRspkWGh2aaZEaxdlRoFnVyAXcWJjVYZlMVJjWXVlMRRVWyElV5IUUWlTaYFTOpJ2VKlmYUJEdiRlQ21ERCZHUXljdQd1a5A1VspXYXxmeQNjT6BlMN9CUy4kRZJjTGJWVWZkYVZEdiVlR1FVVGV3YtVTdjxmW5NGbaNkVsp1QatmSDplaW1mWqVFMORVVwwkeRBDTyUldMJjVpp1VWlGTtpUaM5WV1xkbWBDZYZFMkhlUwQ2V5EDZXlTNiJTO1w0MsVDT5hjdMlHO2wUe4YzY69mNjNjQ6N2MCBzYIJEMkhkUwQ2RoBDZHdWP"
+			}
+		}
+	},
+	
 }
