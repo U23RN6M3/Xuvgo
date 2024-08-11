@@ -8,4 +8,30 @@
   "home":{
     "news":"I love chimdren",
   }
+  "schedule":{
+    "links":{
+    	"TH10A":{
+    		
+    		
+    	},
+    	
+    	"TH10B":{
+    		"Homeroom":"https://google.com/",
+    		"Values Ed":"",
+    		"Mapeh":"",
+    		"Theology":"",
+    		"English":"",
+    		"Filipino":"",
+    		"Math":"",
+    		"Science":"",
+    		"AP":"",
+    		"ICT":"",
+    		"CSS":"",
+    		"HE":"",
+    		"TD":"",
+    		"AFA":"",
+    		"-":"",
+    	}
+    }
+  }
 }
