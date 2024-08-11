@@ -11,9 +11,13 @@
 
   "header":"This is so skibidi",
 
-  "home":{
+  "announcements":{
 
-    "news":"I love chimdren"
+	"reminders":"",
+
+	"thought_bubble":"hmm",
+
+    "news":"[rainbow freq=1.0 sat=0.8 val=0.8][wave amp=50.0 freq=5.0 connected=1]BREAKING NEWS[/wave][/rainbow]:\nSomeone skibidied all over my [shake rate=20.0 level=10 connected=1][color=red]gyatt[/color][/shake]"
 
   },
 
@@ -22,7 +26,7 @@
     "links":{
 
     	"TH10A":{
-"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
+			"Homeroom":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
     		"Values Ed":"",
     		"Mapeh":"",
     		"Theology":"",
