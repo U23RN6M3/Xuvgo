@@ -1,15 +1,26 @@
 {
   "name":"Goated Management System",
+
   "version":"1.0.0",
+
   "accessible":true,
+
   "quarter":1,
+
   "allow_test_copies_to_access":true,
+
   "header":"This is so skibidi",
+
   "home":{
-    "news":"I love chimdren",
-  }
+
+    "news":"I love chimdren"
+
+  },
+
   "schedule":{
+
     "links":{
+
     	"TH10A":{
     		
     		
@@ -30,8 +41,11 @@
     		"HE":"",
     		"TD":"",
     		"AFA":"",
-    		"-":"",
+    		"-":""
     	}
+
     }
+
   }
+
 }
