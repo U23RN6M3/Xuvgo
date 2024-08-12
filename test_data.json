@@ -1,26 +1,64 @@
 {
+	
 	"name":"Goated Management System",
 	"version":"1.0.0",
 	"accessible":true,
 	"quarter":1,
 	"allow_test_copies_to_access":true,
-	"header":"This is so skibidi",
+	
+	"header":{
+		"home":"This is so skibidi",
+		"announcements":"*Royal fanfare noises*",
+		"schedule":"I love this system",
+		"submissions":"GRAHHHH",
+	},
 	
 	"announcements":{
 		
 		"reminders":{
 			
 			"TH10A":
-				"",
+"[b]Classroom[/b]
+You guys are staying in OLM's room [wave]103-F[/wave] in the 3rd floor today.",
 			
 			"TH10B":
-				"Lmao I hope programming this wasn't all for nothing.",
+"Lmao I hope programming this wasn't all for nothing.
+
+[b]Classroom[/b]
+You guys are staying in OLM's room [wave]103-P[/wave] in the 3rd floor today.",
 			
 		},
 		
 		"thought_bubble":"hmm",
 		
-		"news":"[shake rate=20.0 level=10 connected=1][wave amp=50.0 freq=5.0 connected=1]I LOVE JSON FILES[/wave][/shake]"
+		"news":
+"[b][shake rate=20.0 level=10 connected=1]BREAKING NEWS[/shake][/b]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		
+	},
+	
+	"submissions":{
+		
+		"TH10A":{
+			
+		},
+		
+		"TH10B":{
+			"GMS":{
+				"teacher":"Magnus Naidas",
+				"email":"",
+				"submissions":[
+					{
+						"header":"Funky",
+						"text":"This is a test submission lol",
+						"instructions":"nothing this is just a link to google",
+						"link":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
+						
+					},
+					
+				]
+			}
+		}
 		
 	},
 	
@@ -39,9 +77,6 @@
 				"AP":"",
 				"ICT":"",
 				"CSS":"",
-				"HE":"",
-				"TD":"",
-				"AFA":"",
 				"-":"WxmWXZlbSdlVuJlWkhkUaJVMsplUyYESSJjR0l1VGRHZtFDdk5mSyQmbK12YupUbadkWtpFSGtmWIZ0VjhlRX5kRadlTGFEMOZkQWVlRCZFUWZlVQd1a5A1VspXYXxmeQNjT6BVMr9CUxwmeXZFb6JlbOpnUrZ1RStWV6JVVVpXTq1keNp2a51kasR0TUxGRatmTEp1a01mWrNHMTBzcwwkeRBDTyUldMJjVpp1VWlGTtpUaM5WV1xkbWBDZYZFMkhlUwQ2V5EDZXlTNiJTO1w0MsVDT5hjdMlHO2wUe4YzY69mNjNjQ6N2MCBzYIJEMkhkUwQ2RoBDZHdWP"
 				
 			},
@@ -65,5 +100,6 @@
 			}
 		}
 	},
+	
 	
 }
