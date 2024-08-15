@@ -19,21 +19,34 @@
 			
 			"TH10A":
 "[b]Classroom[/b]
-You guys are staying in OLM's room [wave]103-F[/wave] in the 3rd floor today.",
+Nada",
 			
 			"TH10B":
-"Lmao I hope programming this wasn't all for nothing.
+"Welcome to GoatedMS hehehaha.
 
-[b]Classroom[/b]
-You guys are staying in OLM's room [wave]103-N[/wave] in the 3rd floor today.",
+[b]Agenda[/b]
+First day of online clazzes. Math, Filipino, and AP are online iirc and Science you just need to submit something.
+
+Links will probably not work right now for online classes, however I'll try to update them [shake]ASAP[/shake].
+
+[b]English[/b]
+Don't forget to bring your 1x1 picture to ftf classes if you forgor it last time.
+
+[b]Science[/b]
+Lesson na agad wala nang introduction sabi ni sir.
+
+Thanks for being so skibidi and using GoatedMS dawg you a real one.",
 			
 		},
 		
 		"thought_bubble":"hmm",
 		
 		"news":
-"[b][shake rate=20.0 level=10 connected=1]BREAKING NEWS[/shake][/b]
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+"Poster making competition for Buwan ng Wika yehay goodluck Klara, Fel, and Magnose of 10B!!!
+
+Migs got beef with sir Abraham over an unsent message lmao
+
+NCAE drained the life outta me"
 		
 	},
 	
@@ -44,7 +57,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 		},
 		
 		"TH10B":{
-			"Homeroom":{
+			"Test Submission":{
 				"teacher":"Magnus Naidas",
 				"email":"",
 				"section":"",
