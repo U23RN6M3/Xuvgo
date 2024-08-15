@@ -25,7 +25,7 @@ You guys are staying in OLM's room [wave]103-F[/wave] in the 3rd floor today.",
 "Lmao I hope programming this wasn't all for nothing.
 
 [b]Classroom[/b]
-You guys are staying in OLM's room [wave]103-P[/wave] in the 3rd floor today.",
+You guys are staying in OLM's room [wave]103-N[/wave] in the 3rd floor today.",
 			
 		},
 		
@@ -44,9 +44,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 		},
 		
 		"TH10B":{
-			"GMS":{
+			"Homeroom":{
 				"teacher":"Magnus Naidas",
 				"email":"",
+				"section":"",
 				"submissions":[
 					{
 						"header":"Funky",
