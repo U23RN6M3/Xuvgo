@@ -25,15 +25,13 @@ Nada",
 "Welcome to GoatedMS hehehaha.
 
 [b]Agenda[/b]
-First day of online clazzes. Math, Filipino, and AP are online iirc and Science you just need to submit something.
+First day of online clazzes. Unfortunately I don't support the club links, however I'll update the class links as soon as possible.
 
-Links will probably not work right now for online classes, however I'll try to update them [shake]ASAP[/shake].
+Submissions have been programmed in and wow I hated working on that system but hey it's finished now wahoo!!
 
-[b]English[/b]
-Don't forget to bring your 1x1 picture to ftf classes if you forgor it last time.
+I'll try to convince the teachers to use this system but most likely they're just gonna use teams :'))
 
-[b]Science[/b]
-Lesson na agad wala nang introduction sabi ni sir.
+And uhh as always, I'll try to update all the links [shake]ASAP[/shake].
 
 Thanks for being so skibidi and using GoatedMS dawg you a real one.",
 			
@@ -42,11 +40,7 @@ Thanks for being so skibidi and using GoatedMS dawg you a real one.",
 		"thought_bubble":"hmm",
 		
 		"news":
-"Poster making competition for Buwan ng Wika yehay goodluck Klara, Fel, and Magnose of 10B!!!
-
-Migs got beef with sir Abraham over an unsent message lmao
-
-NCAE drained the life outta me"
+"Uhhh, Ber months na tayo yehay it's a very merry christmas"
 		
 	},
 	
@@ -57,22 +51,34 @@ NCAE drained the life outta me"
 		},
 		
 		"TH10B":{
-			"Test Submission":{
-				"teacher":"Magnus Naidas",
+			"Math":{
+				"teacher":"Ms Azzie",
 				"email":"",
-				"section":"",
 				"submissions":[
 					{
-						"header":"Funky",
-						"text":"This is a test submission lol",
-						"instructions":"nothing this is just a link to google",
-						"link":"iNFO2J2V5QnYXljaiJTOqxUbOpGTtVVdM1mVzp1VWNnWyg3caJTOuplM5YnYykjdaJTO2pVe54mW5hjdMlHO29Ua4Y3Tu1kNP5mT3N2MOdHZIJ0dkhkUwQGSS9GZIJ1b",
+						"header":"Exercise (Means and Series)",
+						"text":"Due Aug 30",
+						"instructions":"Attach your work as an image file and then don't forget to turn the assignment in.",
+						"link":"=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"
 						
 					},
-					
 				]
-			}
-		}
+			},
+			
+			"Filipino":{
+				"teacher":"Sir JP",
+				"email":"",
+				"submissions":[
+					{
+						"header":"Sulating Gawain #1",
+						"text":"Due Sept 4",
+						"instructions":"Basahin ang tekstong “Mitolohiya ni Cupid at Psyche” pagkatapos ay sagutin ang mga sumusunod na katanungan. Maaring basahin ang teksto sa file na 'MITOLOHIYA NI CUOID AT PSYCHE' Gamiting ang file na 'HMSG #1' upang sagutin ang mga katanungan.",
+						"link":"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"
+					
+					},
+				]
+			},
+		},
 		
 	},
 	
